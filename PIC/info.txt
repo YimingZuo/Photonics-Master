@@ -1,0 +1,32 @@
+server: https://wsbuval.intec.ugent.be/
+login name: msc_26
+password: confident_kepler
+
+
+introduction - https://www.youtube.com/watch?v=TNbR2a2QH-g&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+quickstart ckt design - https://www.youtube.com/watch?v=okwwOOFpLPE&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+design flow - https://www.youtube.com/watch?v=0oJ7uBU3fuk&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+photonic chip layout - https://www.youtube.com/watch?v=shaxHUgOdv0&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+waveguide - https://www.youtube.com/watch?v=U9W8gBatMkM&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+pic platforms - https://www.youtube.com/watch?v=1JjW35-QvYE&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+pic components - https://www.youtube.com/watch?v=f7eC43mbNs0&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+component simulation - https://www.youtube.com/watch?v=NA7CBV_jTmI&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+component to ckts - https://www.youtube.com/watch?v=SOi0ZtNGoVo&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+wavelength filters - https://www.youtube.com/watch?v=Xyy84L31JIM&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+programmable photonics - https://www.youtube.com/watch?v=l4xmWsGvRrc&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+design for manufacturability - https://www.youtube.com/watch?v=Va92qfQk_CA&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+after fabrication - https://www.youtube.com/watch?v=0zixJzIOJx4&ab_channel=PhotonicsResearchGroup-UGent-imec
+
+applications of pic - https://www.youtube.com/watch?v=_5F9p9bAiiM&ab_channel=PhotonicsResearchGroup-UGent-imec
